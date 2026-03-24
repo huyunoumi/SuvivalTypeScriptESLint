@@ -13,6 +13,7 @@ Practice ESLint of TypeScript with [サバイバルTypeSctipt](https://typescrip
     <td>Lang</td>
     <td>Libraries</td>
     <td>IDE</td>
+    <td>Other</td>
   </tr>
   <!-- ボディ -->
   <tr>
@@ -34,6 +35,12 @@ Practice ESLint of TypeScript with [サバイバルTypeSctipt](https://typescrip
       </a>
       <!-- jiti -->
       <img src="https://img.shields.io/badge/-jiti-EEE.svg?style=flat">
+    </td>
+    <td>
+      <!-- VSCode -->
+      <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/-VSCode-blue.svg?style=flat">
+      </a>
     </td>
     <td>
       <!-- npm -->
